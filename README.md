@@ -39,3 +39,5 @@
 
 - [**로블록스 계정 세팅하기**](accountSettings.md)
 - [**게임 수익화와 홍보 전략**](monetizationNPublicity.md)
+- [**친구들과 함께 게임 제작**](teamCreate.md)
+- [**깃헙으로 협업하기**](githubDevelopment.md)
